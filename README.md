@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kushaljj. 
-- 👀 I’m a Undergrad Engg. student interested in building using exciting technologies like Machine learning, Web Development, etc.
+- 👀 I’m a Undergrad Engineering student interested in building systems using technologies like Machine learning, Web Development, etc.
 - 🌱 I’m currently learning and Practicing Machine Learning, Android development,Data structures,etc.
-- 💞️ I’m looking to collaborate on Android development, Data Science and Machine learning topics.
+- 🤝 I’m open to doing an internship in Data Science, Machine learning domain. 
 - 📫 You can reach me by email: kush100.kj@gmail.com, LinkedIn: https://www.linkedin.com/in/kushal-jivarajani-5b82a0184
 
 <!---
